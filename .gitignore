@@ -1,2 +1,12 @@
 .venv/
 .ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.log
+*.out
+*.pid
+*.pid.lock
+*.lock
